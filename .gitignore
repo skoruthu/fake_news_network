@@ -1,0 +1,13 @@
+politifact_fake.zip
+politifact_real.zip
+user_followers.zip
+user_following.zip
+user_profiles.zip
+data/
+politifact99/
+politifact99.zip
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
