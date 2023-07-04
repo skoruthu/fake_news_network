@@ -24,7 +24,7 @@ The team's approach and toolkit for addressing the problem are summarized as fol
 
 ##### Collaborators
 
-Susan Koruthu
-Gino Sy Tiu
-Felipe Chapa
+Susan Koruthu <br />
+Gino Sy Tiu <br />
+Felipe Chapa <br />
 Widya Salim
